@@ -28,5 +28,5 @@ Text changes: edit both language pages and keep `docs/content.md` in step. To pr
 ## Publishing
 - Repository: https://github.com/eidehli/eidehli-website (public). `input/` is never committed.
 - Every push to `main` that touches `site/` publishes automatically via GitHub Actions (`Publish site`).
-- Temporary address: https://eidehli.github.io/eidehli-website/ — main address from step 6: **https://www.eidehli.com/** (eidehli.com forwards to it).
+- Address: **https://www.eidehli.com/** (custom domain set in repo Settings → Pages, HTTPS enforced). eidehli.com and the old https://eidehli.github.io/eidehli-website/ forward to it. DNS records: see `docs/PLAN.md`.
 - Canonical, hreflang, Open Graph and sitemap URLs are absolute and point to www.eidehli.com; all links between pages stay relative.

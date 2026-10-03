@@ -23,3 +23,5 @@
 | 2026-10-03 | Publish with a GitHub Actions workflow that deploys `site/`; repo `eidehli/eidehli-website` (public) | Pages' folder option only allows root or `/docs`; keeps docs and site apart |
 | 2026-10-03 | Link-preview image = stacked logo on page background, no tagline | Nothing placed where "CONSULTING" used to be, consistent with the logo decision |
 | 2026-10-03 | Norwegian page logo links to the Norwegian front page (was English) | A visitor's language choice is kept |
+| 2026-10-03 | Verify eidehli.com on the GitHub account (TXT record) before pointing DNS to GitHub; set the custom domain before the DNS change | Prevents anyone else from claiming the domain on GitHub Pages during or after the switch |
+| 2026-10-03 | Only IPv4 (A) records for the apex; no IPv6 (AAAA) for now | Fewer GoDaddy changes for the owner; IPv6 can be added any time |
