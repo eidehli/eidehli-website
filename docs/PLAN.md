@@ -22,7 +22,7 @@ No hourly consulting is offered any longer; the company's focus is app developme
 ## Steps (owner approval between each)
 1. Repo set-up and plan ✅
 2. Logo versions ✅ (option B, refined)
-3. Texts EN + NO — draft v1 awaiting approval
+3. Texts EN + NO ✅ (docs/content.md)
 4. Design and build, preview
 5. Publish on GitHub Pages temporary address
 6. DNS switch at GoDaddy (owner does it, with instructions); verify site + email

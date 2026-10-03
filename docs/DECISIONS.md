@@ -12,3 +12,4 @@
 | 2026-10-03 | Third-person founder bio with photo and LinkedIn link | Owner's choice |
 | 2026-10-03 | Registered NACE code / purpose left unchanged | Purpose already covers software development (owner's advice) |
 | 2026-10-03 | Logo option B (refined, no reflection) | Calmer, more contemporary; sharper at icon sizes |
+| 2026-10-03 | Texts v1 approved; clients named: Telia, Hurtigruten, Q-Free, Varner, Kongsberg; AI mention kept | Owner approval |
