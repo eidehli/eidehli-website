@@ -27,8 +27,10 @@ No hourly consulting is offered any longer; the company's focus is app developme
 3. Texts EN + NO ✅ (docs/content.md)
 4. Design and build, preview ✅ (design v1 approved 2026-10-03)
 5. Publish on GitHub Pages temporary address ✅ (https://eidehli.github.io/eidehli-website/, approved 2026-10-03)
-6. DNS switch at GoDaddy (owner does it, with instructions); verify site + email — site live and verified 2026-10-03; email send/receive test pending
-7. Retire old Google Site; final documentation
+6. DNS switch at GoDaddy (owner does it, with instructions); verify site + email ✅ (site live and verified 2026-10-03; owner confirmed email send/receive works)
+7. Retire old Google Site; final documentation ✅ (2026-10-03)
+
+After launch: client name changed to "Kongsberg Defence & Aerospace" (EN + NO), 2026-10-03.
 
 ## DNS at GoDaddy (since 2026-10-03)
 Nameservers: GoDaddy (ns11/ns12.domaincontrol.com). Only the website records were changed; mail records untouched.
@@ -43,4 +45,13 @@ Nameservers: GoDaddy (ns11/ns12.domaincontrol.com). Only the website records wer
 - Domain eidehli.com is verified on the GitHub account `eidehli` (Settings → Pages → verified domains); prevents others from using it on GitHub Pages.
 - Custom domain set in repo Settings → Pages = `www.eidehli.com`, "Enforce HTTPS" on. No CNAME file needed (Actions-based publishing).
 - No AAAA (IPv6) records added; optional later (2606:50c0:8000::153 … 8003::153).
-- Rollback: put the "before" values back in GoDaddy and clear the custom domain in Pages.
+- Rollback: put the "before" values back in GoDaddy and clear the custom domain in Pages. Since step 7 the old Google Site is unpublished, so it must also be published again in Google Sites.
+
+## Old Google Site (retired 2026-10-03)
+- Old site: Google Sites, original address sites.google.com/a/eidehli.com/www (converted from classic Sites). Owner **unpublished** it on 2026-10-03; it is **not deleted** (kept for a while as a reference copy).
+- Its link to www.eidehli.com ("web address mapping" in Google Workspace Admin → Apps → Google Workspace → Sites) was left in place on purpose: DNS no longer points to Google, so it has no effect. Optional tidy-up later.
+- Later (optional): delete the old site in Google Sites once nothing more is needed from it.
+
+## Access for updates
+- Publishing needs a GitHub fine-grained access key limited to this repo (Contents: read/write). The key used during set-up is deleted by the owner after step 7.
+- For future changes: owner creates a new short-lived key (GitHub → Settings → Developer settings → Fine-grained tokens, repo `eidehli-website` only, Contents read/write, ~7 days), passes it in the chat, and deletes it afterwards. The key is used as a one-off header and never stored in the repo or git config.

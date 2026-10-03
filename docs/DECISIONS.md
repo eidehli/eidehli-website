@@ -26,3 +26,4 @@
 | 2026-10-03 | Verify eidehli.com on the GitHub account (TXT record) before pointing DNS to GitHub; set the custom domain before the DNS change | Prevents anyone else from claiming the domain on GitHub Pages during or after the switch |
 | 2026-10-03 | Only IPv4 (A) records for the apex; no IPv6 (AAAA) for now | Fewer GoDaddy changes for the owner; IPv6 can be added any time |
 | 2026-10-03 | Client name "Kongsberg" changed to "Kongsberg Defence & Aerospace" (EN + NO) | Owner request — names the actual client unit |
+| 2026-10-03 | Old Google Site unpublished, not deleted; its Workspace web-address mapping left in place | Keeps a reference copy; the mapping has no effect since DNS points to GitHub |
