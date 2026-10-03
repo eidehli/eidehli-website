@@ -1,0 +1,4 @@
+# Private source material (CVs, original brand files) — never publish
+input/
+# macOS
+.DS_Store
