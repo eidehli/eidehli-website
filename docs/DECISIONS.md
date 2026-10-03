@@ -19,3 +19,7 @@
 | 2026-10-03 | Pages are plain hand-maintained HTML: `site/index.html` (EN), `site/no/index.html` (NO); all paths relative | Works both on the temporary GitHub address and on eidehli.com |
 | 2026-10-03 | Design v1 approved as is; calm, restrained use of colour; no dark mode for now | Owner likes the calm look; dark mode would need a light version of the logo |
 | 2026-10-03 | Accent colours from the manual (orange, magenta, green, blue) tried on one element (section accents / LinkedIn arrow); keep navy→light-blue for now | Owner prefers the current calm look; orange on section accents remains the recommended option if more colour is wanted later |
+| 2026-10-03 | Main address www.eidehli.com; eidehli.com forwards to it | Same address as the old site, so existing links and printed material stay valid |
+| 2026-10-03 | Publish with a GitHub Actions workflow that deploys `site/`; repo `eidehli/eidehli-website` (public) | Pages' folder option only allows root or `/docs`; keeps docs and site apart |
+| 2026-10-03 | Link-preview image = stacked logo on page background, no tagline | Nothing placed where "CONSULTING" used to be, consistent with the logo decision |
+| 2026-10-03 | Norwegian page logo links to the Norwegian front page (was English) | A visitor's language choice is kept |

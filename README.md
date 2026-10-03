@@ -18,5 +18,15 @@ The site is designed, written and maintained by Claude on behalf of Einar Dehli.
 | `site/assets/img/` | Founder portrait (optimised, metadata stripped) |
 | `site/assets/logo/` | Logo files |
 | `site/favicon.svg`, `favicon-32.png`, `apple-touch-icon.png` | Browser tab and home-screen icons |
+| `site/assets/img/og-image.png` | Link-preview image (1200×630) used when the site is shared |
+| `site/404.html` | "Page not found" page (EN + NO); sets its own base address so it works on both the temporary and the final address |
+| `site/robots.txt`, `site/sitemap.xml` | Search-engine hints (point to www.eidehli.com) |
+| `.github/workflows/pages.yml` | Publishes `site/` to GitHub Pages on every push to `main` |
 
 Text changes: edit both language pages and keep `docs/content.md` in step. To preview locally: `cd site && python3 -m http.server` and open http://localhost:8000 (opening the file directly blocks the web font in some browsers).
+
+## Publishing
+- Repository: https://github.com/eidehli/eidehli-website (public). `input/` is never committed.
+- Every push to `main` that touches `site/` publishes automatically via GitHub Actions (`Publish site`).
+- Temporary address: https://eidehli.github.io/eidehli-website/ — main address from step 6: **https://www.eidehli.com/** (eidehli.com forwards to it).
+- Canonical, hreflang, Open Graph and sitemap URLs are absolute and point to www.eidehli.com; all links between pages stay relative.
