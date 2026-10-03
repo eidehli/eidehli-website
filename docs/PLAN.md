@@ -21,7 +21,7 @@ No hourly consulting is offered any longer; the company's focus is app developme
 
 ## Steps (owner approval between each)
 1. Repo set-up and plan ✅
-2. Logo versions
+2. Logo versions — awaiting approval
 3. Texts EN + NO
 4. Design and build, preview
 5. Publish on GitHub Pages temporary address
