@@ -15,7 +15,7 @@ New products are in development and will be presented here when they are ready.
 ### Founder
 **Einar Dehli** founded Eidehli AS in 2009. He holds an MSc in physics and computer science from NTH (now NTNU) and has more than four decades of experience in software development, artificial intelligence and technology leadership.
 
-In 1985 he co-founded Computas, Norway's first AI company, where he spent nearly twenty years as technologist and leader. He later co-founded two technology startups, and as an independent consultant has led demanding projects for organisations such as Telia, Hurtigruten, Q-Free, Varner and Kongsberg.
+In 1985 he co-founded Computas, Norway's first AI company, where he spent nearly twenty years as technologist and leader. He later co-founded two technology startups, and as an independent consultant has led demanding projects for organisations such as Telia, Hurtigruten, Q-Free, Varner and Kongsberg Defence & Aerospace.
 
 Today his attention is on building software of his own — where long experience meets modern, AI-assisted development.
 
@@ -40,7 +40,7 @@ Nye produkter er under utvikling og vil bli presentert her når de er klare.
 ### Gründer
 **Einar Dehli** etablerte Eidehli AS i 2009. Han er sivilingeniør i fysikk og datateknikk fra NTH (i dag NTNU) og har mer enn 40 års erfaring med programvareutvikling, kunstig intelligens og teknologiledelse.
 
-I 1985 var han med på å grunnlegge Computas, Norges første KI-selskap, der han i nesten tjue år var teknolog og leder. Senere har han vært med på å starte to teknologiselskaper, og som selvstendig konsulent har han ledet krevende prosjekter for blant andre Telia, Hurtigruten, Q-Free, Varner og Kongsberg.
+I 1985 var han med på å grunnlegge Computas, Norges første KI-selskap, der han i nesten tjue år var teknolog og leder. Senere har han vært med på å starte to teknologiselskaper, og som selvstendig konsulent har han ledet krevende prosjekter for blant andre Telia, Hurtigruten, Q-Free, Varner og Kongsberg Defence & Aerospace.
 
 I dag bruker han tiden på å utvikle egen programvare – der lang erfaring møter moderne, KI-assistert utvikling.
 
