@@ -28,4 +28,4 @@ Wordmark glyphs are outlined Zapfino, so no font licence is needed for the logo.
 Accent harmonies in the manual (use sparingly): orange CMYK 0/50/100/0, green 53/17/100/1, magenta 34/96/34/5, blue 80/56/0/0.
 
 ## Typography
-Manual: Zapfino (logo/headings only) and Futura Light (body). Futura is a paid web font; the site uses a free geometric substitute (decided in step 4).
+Manual: Zapfino (logo/headings only) and Futura Light (body). Futura is a paid web font; the site uses **Jost** (free, SIL Open Font License), self-hosted from `site/assets/fonts/` with its licence alongside (decided in step 4).

@@ -23,7 +23,7 @@ No hourly consulting is offered any longer; the company's focus is app developme
 1. Repo set-up and plan ✅
 2. Logo versions ✅ (option B, refined)
 3. Texts EN + NO ✅ (docs/content.md)
-4. Design and build, preview
+4. Design and build, preview — draft v1 built 2026-10-03, awaiting owner review
 5. Publish on GitHub Pages temporary address
 6. DNS switch at GoDaddy (owner does it, with instructions); verify site + email
 7. Retire old Google Site; final documentation

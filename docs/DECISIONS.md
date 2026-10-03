@@ -13,3 +13,7 @@
 | 2026-10-03 | Registered NACE code / purpose left unchanged | Purpose already covers software development (owner's advice) |
 | 2026-10-03 | Logo option B (refined, no reflection) | Calmer, more contemporary; sharper at icon sizes |
 | 2026-10-03 | Texts v1 approved; clients named: Telia, Hurtigruten, Q-Free, Varner, Kongsberg; AI mention kept | Owner approval |
+| 2026-10-03 | Body font Jost (variable, OFL licence), self-hosted, Latin subset only (27 KB) | Free geometric substitute for Futura; no requests to Google or other third parties |
+| 2026-10-03 | Design draft v1: light warm-white page, navy labels, two-column sections (label / text), round portrait, short navy→light-blue accent on section rules | Brief: substance, subtle, attention to detail |
+| 2026-10-03 | Norwegian auto-select: English page sends visitors whose browser's first language is Norwegian (nb/nn/no) to `/no/`, unless they came from the site itself | Respects a manual language choice without cookies or browser storage |
+| 2026-10-03 | Pages are plain hand-maintained HTML: `site/index.html` (EN), `site/no/index.html` (NO); all paths relative | Works both on the temporary GitHub address and on eidehli.com |
