@@ -17,3 +17,4 @@
 | 2026-10-03 | Design draft v1: light warm-white page, navy labels, two-column sections (label / text), round portrait, short navy→light-blue accent on section rules | Brief: substance, subtle, attention to detail |
 | 2026-10-03 | Norwegian auto-select: English page sends visitors whose browser's first language is Norwegian (nb/nn/no) to `/no/`, unless they came from the site itself | Respects a manual language choice without cookies or browser storage |
 | 2026-10-03 | Pages are plain hand-maintained HTML: `site/index.html` (EN), `site/no/index.html` (NO); all paths relative | Works both on the temporary GitHub address and on eidehli.com |
+| 2026-10-03 | Design v1 approved as is; calm, restrained use of colour; no dark mode for now | Owner likes the calm look; dark mode would need a light version of the logo |
