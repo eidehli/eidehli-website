@@ -26,6 +26,6 @@ No hourly consulting is offered any longer; the company's focus is app developme
 2. Logo versions ✅ (option B, refined)
 3. Texts EN + NO ✅ (docs/content.md)
 4. Design and build, preview ✅ (design v1 approved 2026-10-03)
-5. Publish on GitHub Pages temporary address — published 2026-10-03 at https://eidehli.github.io/eidehli-website/ (owner's check pending)
+5. Publish on GitHub Pages temporary address ✅ (https://eidehli.github.io/eidehli-website/, approved 2026-10-03)
 6. DNS switch at GoDaddy (owner does it, with instructions); verify site + email
 7. Retire old Google Site; final documentation
