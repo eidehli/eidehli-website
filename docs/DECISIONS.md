@@ -18,3 +18,4 @@
 | 2026-10-03 | Norwegian auto-select: English page sends visitors whose browser's first language is Norwegian (nb/nn/no) to `/no/`, unless they came from the site itself | Respects a manual language choice without cookies or browser storage |
 | 2026-10-03 | Pages are plain hand-maintained HTML: `site/index.html` (EN), `site/no/index.html` (NO); all paths relative | Works both on the temporary GitHub address and on eidehli.com |
 | 2026-10-03 | Design v1 approved as is; calm, restrained use of colour; no dark mode for now | Owner likes the calm look; dark mode would need a light version of the logo |
+| 2026-10-03 | Accent colours from the manual (orange, magenta, green, blue) tried on one element (section accents / LinkedIn arrow); keep navy→light-blue for now | Owner prefers the current calm look; orange on section accents remains the recommended option if more colour is wanted later |
